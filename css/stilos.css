@@ -38,6 +38,12 @@ body{
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 #imagen{
     width: 70px;
+=======
+#parrafo{
+    background: gray;
+    text-align: center;
+>>>>>>> footer
 }
